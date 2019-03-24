@@ -3,8 +3,8 @@ create table clientes (
 nombre varchar2(50),
 dni char(8)
 )
+tablespace tmp;
 
--- autor : arturo rojas
-
--- tercer cambio
+commit;:
+-- cuarto cambio
 
